@@ -1,6 +1,4 @@
-# GenomicBPE
-
-A Data-driven DNA Sequence Tokenizer
+# GenomicBPE: A Data-driven DNA Sequence Tokenizer
 
 ## Description
 
