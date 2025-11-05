@@ -1,6 +1,4 @@
-# GenomicBPE
-
-A Data-driven DNA Sequence Tokenizer
+# GenomicBPE: A Data-driven DNA Sequence Tokenizer
 
 ## Description
 
@@ -16,4 +14,4 @@ GenomicBPE is a specialized implementation of Byte-Pair Encoding (BPE) for genom
 ## Hyperparameters Tuning
 - Our initial exploration of vocabulary size and frequency hyperparameters reveals that BPE achieves **3×** compression with a **2,000-token vocabulary** and **minimum frequency of 5**, representing **1,600bp** sequences using merely **500 tokens**.
 
-![hyperparameter tuning](D:\github\GenomicBPE\bpe_comparison.png)
+  ![hyperparameter tuning](./bpe_comparison.png)
